@@ -8,7 +8,7 @@ ADL Experience API Verbs
 Usage
 -----
 
-- Inlude the script in your html ```<script type="text/javascript" src="./js/verbs.js"></script>```
+- Include the script in your html ```<script type="text/javascript" src="./js/verbs.js"></script>```
 - Reference the verbs in javascript using json notation ```ADL.verbs.registered```
 
 
