@@ -24,7 +24,7 @@ see:
   - [/js/Game.js](https://github.com/adlnet/LRSGame/blob/master/js/Game.js)
 - https://github.com/adlnet/LRSGameDashboard
   - [index.html](https://github.com/adlnet/LRSGameDashboard/blob/master/index.html)
-  - [stats.js](https://github.com/adlnet/LRSGameDashboard/blob/master/js/stats.js)
+  - [/js/stats.js](https://github.com/adlnet/LRSGameDashboard/blob/master/js/stats.js)
 
 #### Help make it better
 If you want to help make this better, please feel free to fork and make edits. Submit a pull request back to 
