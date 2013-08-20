@@ -11,10 +11,19 @@ file in your html and access it using json notation. See usage and examples belo
 Usage
 -----
 
-- Include the script in your html ```<script type="text/javascript" src="./js/verbs.js"></script>```
-- Reference the verbs in javascript using json notation ```ADL.verbs.registered```
-
-
+Include the script in your html 
+```html
+<script type="text/javascript" src="./js/verbs.js"></script>
+```
+  
+Reference the verbs in javascript using json notation
+```javascript
+var statement = {
+  "actor" : {"mbox":"mailto:tom@example.com"},
+  "verb" : ADL.verbs.registered,
+  "object" : {"id":"http://adlnet.gov/expapi/activities/using-xapi-verbs"}
+};
+```
 
 Examples
 ---------
