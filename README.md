@@ -1,8 +1,11 @@
 xAPIVerbs
 =========
 
-ADL Experience API Verbs
-
+ADL Experience API Verbs  
+  
+The Javascript file attaches an ADL object to the window allowing scripts to access the list of ADL Verbs, 
+such as experienced, passed, imported and launched. This makes it easy to use the ADL Verbs, just include this 
+file in your html and access it using json notation. See usage and examples below.
 
 
 Usage
@@ -19,6 +22,9 @@ see:
 - https://github.com/adlnet/LRSGame
   - [index.html](https://github.com/adlnet/LRSGame/blob/master/index.html)
   - [/js/Game.js](https://github.com/adlnet/LRSGame/blob/master/js/Game.js)
+- https://github.com/adlnet/LRSGameDashboard
+  - [index.html](https://github.com/adlnet/LRSGameDashboard/blob/master/index.html)
+  - [stats.js](https://github.com/adlnet/LRSGameDashboard/blob/master/js/stats.js)
 
 #### Help make it better
 If you want to help make this better, please feel free to fork and make edits. Submit a pull request back to 
