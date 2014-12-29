@@ -35,6 +35,10 @@ see:
   - [index.html](https://github.com/adlnet/LRSGameDashboard/blob/master/index.html)
   - [/js/stats.js](https://github.com/adlnet/LRSGameDashboard/blob/master/js/stats.js)
 
+#### Languages  
+- en-US  United States English  
+- es-ES  Spain Spanish  
+  
 #### Help make it better
 If you want to help make this better, please feel free to fork and make edits. Submit a pull request back to 
 this project and we will review and pull it in.  
