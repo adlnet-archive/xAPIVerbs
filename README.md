@@ -36,6 +36,7 @@ see:
   - [/js/stats.js](https://github.com/adlnet/LRSGameDashboard/blob/master/js/stats.js)
 
 #### Languages  
+- fr-FR  France French
 - de-DE  Germany German  
 - en-US  United States English  
 - es-ES  Spain Spanish  
