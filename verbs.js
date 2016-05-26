@@ -2,7 +2,8 @@
    ADL.verbs = {
       "abandoned" : {
          "id" : "https://w3id.org/xapi/adl/verbs/abandoned",
-         "display" : {"en-US" : "abandoned"}
+         "display" : {"en-US" : "abandoned",
+                      "fr-FR" : "a abandonné"}
       },
       "answered" : {
          "id" : "http://adlnet.gov/expapi/verbs/answered",
