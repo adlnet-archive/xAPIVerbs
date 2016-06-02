@@ -7,9 +7,19 @@ The Javascript file attaches an ADL object to the window allowing scripts to acc
 such as experienced, passed, imported and launched. This makes it easy to use the ADL Verbs, just include this 
 file in your html and access it using json notation. See usage and examples below.
 
+## Installation
 
-Usage
------
+Either clone:
+
+`git clone https://github.com/adlnet/xAPIVerbs`
+
+or 
+
+[Download directly](https://github.com/adlnet/xAPIVerbs/archive/master.zip)
+
+
+## Usage
+
 
 Include the script in your html 
 ```html
@@ -25,8 +35,8 @@ var statement = {
 };
 ```
 
-Examples
----------
+## Examples
+
 see:
 - https://github.com/adlnet/LRSGame
   - [index.html](https://github.com/adlnet/LRSGame/blob/master/index.html)
@@ -41,7 +51,7 @@ see:
 - en-US  United States English  
 - es-ES  Spain Spanish  
   
-#### Help make it better
+## Contributing to the Project
 If you want to help make this better, please feel free to fork and make edits. Submit a pull request back to 
 this project and we will review and pull it in.  
 
